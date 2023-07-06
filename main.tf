@@ -1,4 +1,4 @@
-resource "yandex_kms_symmetric_key" "redis_kms_key" {
+# resource "yandex_kms_symmetric_key" "redis_kms_key" {
 #   name              = "redis-kms-key"
 #   default_algorithm = "AES_256"
 # }
